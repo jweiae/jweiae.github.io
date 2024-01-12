@@ -45,7 +45,7 @@ a {
 header {
   display: flex;
   justify-content: space-between;
-  border-bottom: 0.1rem solid #adb5bd;
+  border-bottom: 0.1rem solid #8e959c;
   padding-top: 2.2rem;
   padding-bottom: 2.2rem; }
 
@@ -84,7 +84,7 @@ header {
 
   .contact {
     padding-top: 1rem;
-    border-top: 0.1rem solid #adb5bd; }
+    border-top: 0.1rem solid #8e959c; }
 
   .contact-item {
     padding-top: .2rem;
@@ -94,7 +94,7 @@ section {
   padding-top: 2.4rem;
   padding-bottom: 2.4rem;
   padding-left: .2rem;
-  border-bottom: 0.1rem solid #adb5bd;
+  border-bottom: 0.1rem solid #8e959c;
   hyphens: auto; }
 
 .section-title {
@@ -124,7 +124,7 @@ section {
 .block-subtitle {
   font-size: 1rem;
   margin-bottom: 1rem;
-  color: #adb5bd; }
+  color: #8e959c; }
 
 .block-content {
   font-size: 1rem;
@@ -146,7 +146,7 @@ section {
   .block-square:nth-last-child(2) {
     margin-bottom: 2rem; } }
 footer {
-  color: #adb5bd;
+  color: #8e959c;
   font-size: 1rem;
   min-height: 3rem;
   line-height: 3rem;
